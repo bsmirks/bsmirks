@@ -24,3 +24,7 @@ Things I've talked about:
 > O Nobly Born, if thou dost all these things, thy Wizardhood shall surely come upon thee; but not of a sudden, and not until after thy arrogant Mind hath more than half Forgotten that such was its Aim. For know this --- you may not by thyself in Pride claim the Mantle of Wizardry; that way lies only Bogosity without End.
 > 
 > Rather must you Become, and Become, and Become, until Hackers respect thy Power, and other Wizards hail thee as a Brother or Sister in Wisdom, and you wake up and realize that the Mantle hath lain unknown upon thy Shoulders since you knew not when.
+
+### Contact me
+
+My email is bsmreker1@icloud.com. Additionally, my PGP public key is: [`510A 5DFE 55C0 0D50`](https://keybase.io/bsmirks/pgp_keys.asc).
