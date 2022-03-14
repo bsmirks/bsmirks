@@ -4,7 +4,6 @@ I'm a Software/Systems Engineer who loves creating tools and automation that mak
 
 - I am currently a Software Engineer III on the Configuration Management team at Walmart Inc.
 - I'm active among communities involving Go, Python, Puppet, and various tooling's help channels
-- One of my main personal goals is to create an Open Source Configuration Management program for Windows and Linux
 
 ### Contact me
 
